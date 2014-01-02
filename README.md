@@ -1,7 +1,7 @@
 Toodledo4J
 ==========
 
-A Java Wrapper for Toodledo API.
+The Java Wrapper for Toodledo API.
 
 # This is The Only-One Java Wrapper.
 世界で唯一のToodledoAPI Javaラッパです。
